@@ -1,1 +1,2 @@
-SELECT * FROM users WHERE username = ‘jerin’ AND password = ‘j3rin’;
+<script>alert(1)</script>
+<img src=x onerror=alert(1) />
